@@ -56,3 +56,4 @@ You input the Gist ID, then you can see the report.
 <p align="center">
   <img src="./screenshot/wakatime-dashboard.jpg">
 </p>
+
